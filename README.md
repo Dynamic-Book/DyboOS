@@ -13,7 +13,7 @@ app is executed in a X-Window less environment, directly from the
 Linux frame buffer. The memory foot print is therefore very low to
 operate the DyboApp.
 
-![Dybo on Alpine](pictures/DyboAlpine1.png]
+![Dybo on Alpine](pictures/DyboAlpine1.png)
 
 ## Raspberry Pi OS
 It inherits the lightweight and efficient architecture of Raspberry Pi
